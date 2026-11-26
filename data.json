@@ -1,0 +1,294 @@
+{
+  "generated_at": "2026-11-26T13:43:21.606057+00:00",
+  "job_roles": [
+    {
+      "id": 20,
+      "name": "Accounting Clerk",
+      "slug": "accounting-clerk",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "name": "Administrative Assistant",
+      "slug": "administrative-assistant",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "name": "Compliance Coordinator",
+      "slug": "compliance-coordinator",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "name": "Controller",
+      "slug": "controller",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "name": "Controls Group Lead",
+      "slug": "controls-group-lead",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "name": "Controls Technician",
+      "slug": "controls-technician",
+      "description": ""
+    },
+    {
+      "id": 24,
+      "name": "Cutting Production Operator",
+      "slug": "cutting-production-operator",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "name": "Cutting Team Lead",
+      "slug": "cutting-team-lead",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "name": "Human Resources Coordinator",
+      "slug": "human-resources-coordinator",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "name": "Human Resources Manager",
+      "slug": "human-resources-manager",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "name": "IT Manager",
+      "slug": "it-manager",
+      "description": ""
+    },
+    {
+      "id": 41,
+      "name": "Janitorial Maintenance",
+      "slug": "janitorial-maintenance",
+      "description": ""
+    },
+    {
+      "id": 42,
+      "name": "Junior Engineer",
+      "slug": "junior-engineer",
+      "description": ""
+    },
+    {
+      "id": 38,
+      "name": "Mainenance Coordinator",
+      "slug": "mainenance-coordinator",
+      "description": ""
+    },
+    {
+      "id": 48,
+      "name": "Maintenance Supervisor",
+      "slug": "maintenance-supervisor",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "name": "Maintenance Technician",
+      "slug": "maintenance-technician",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name": "Material Handling",
+      "slug": "material-handling",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "name": "MRO Buyer",
+      "slug": "mro-buyer",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Operations Manager",
+      "slug": "operations-manager",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "name": "President",
+      "slug": "president",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Production Group Lead",
+      "slug": "production-group-lead",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Production & Inventory Control",
+      "slug": "production-inventory-control",
+      "description": ""
+    },
+    {
+      "id": 1,
+      "name": "Production Operator",
+      "slug": "production-operator",
+      "description": ""
+    },
+    {
+      "id": 40,
+      "name": "Project Manager",
+      "slug": "project-manager",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "name": "Quality Data Analyst & Document Control",
+      "slug": "quality-data-analyst-document-control",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "name": "Quality Engineer",
+      "slug": "quality-engineer",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "name": "Quality Group Lead",
+      "slug": "quality-group-lead",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "name": "Quality Inspection Associate",
+      "slug": "quality-inspection-associate",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "name": "Quality Lab Lead",
+      "slug": "quality-lab-lead",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "name": "Quality Lab Technician",
+      "slug": "quality-lab-technician",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name": "Quality Manager",
+      "slug": "quality-manager",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "name": "Quality Team Lead",
+      "slug": "quality-team-lead",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "name": "Quality Technician",
+      "slug": "quality-technician",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "name": "Quoting & Estimating Associate",
+      "slug": "quoting-estimating-associate",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Receiving Clerk",
+      "slug": "receiving-clerk",
+      "description": ""
+    },
+    {
+      "id": 45,
+      "name": "Sales Director",
+      "slug": "sales-director",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name": "Sales Engineer",
+      "slug": "sales-engineer",
+      "description": ""
+    },
+    {
+      "id": 43,
+      "name": "Senior Engineer",
+      "slug": "senior-engineer",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "name": "Setup Technician",
+      "slug": "setup-technician",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Shipping Clerk",
+      "slug": "shipping-clerk",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Team Lead",
+      "slug": "team-lead",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "name": "Technical Director",
+      "slug": "technical-director",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "name": "Technical Group Lead",
+      "slug": "technical-group-lead",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "name": "Tool Room Supervisor",
+      "slug": "tool-room-supervisor",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "name": "Tool Room Technician",
+      "slug": "tool-room-technician",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name": "Wash Room",
+      "slug": "wash-room",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Welder",
+      "slug": "welder",
+      "description": ""
+    },
+    {
+      "id": 44,
+      "name": "Welding Engineer",
+      "slug": "welding-engineer",
+      "description": ""
+    }
+  ],
+  "openings": []
+}
